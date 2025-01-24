@@ -25,16 +25,6 @@
 		C6D2BAAE2D43B527008D0160 /* TCA_TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TCA_TestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C6D2BABD2D43CDFF008D0160 /* Exceptions for "TCA_TestTests" folder in "TCA_Test" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				NumberFactClient.swift,
-			);
-			target = C6D2BA8F2D4392D6008D0160 /* TCA_Test */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		C6D2BA922D4392D6008D0160 /* TCA_Test */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
@@ -43,9 +33,6 @@
 		};
 		C6D2BAAF2D43B527008D0160 /* TCA_TestTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				C6D2BABD2D43CDFF008D0160 /* Exceptions for "TCA_TestTests" folder in "TCA_Test" target */,
-			);
 			path = TCA_TestTests;
 			sourceTree = "<group>";
 		};
@@ -348,7 +335,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TCA_Test/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TCA_Test/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = T7HD8WYRNQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -379,7 +366,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TCA_Test/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TCA_Test/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = T7HD8WYRNQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
